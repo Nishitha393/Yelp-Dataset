@@ -1,2 +1,2 @@
 # Yelp-Dataset
-Python for data science and AI -peer graded assignment
+SQL FOR DATA SCIENCE (UC DAVIS)-peer graded assignment
